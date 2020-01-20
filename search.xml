@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Ethics and Professional Issues</title>
+    <url>/2020/01/20/Finance-audit1/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>审计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>World</title>
+    <url>/2020/01/20/world/</url>
+    <content><![CDATA[<p>这是一篇通过不同语言描述世界的文章（未完待续。。。）</p>
+<a id="more"></a>
+
+<p>“这是一个先有蛋的世界”<br>“世界上的第一个人从蛋里面走了出来”（暂且叫“光头”）</p>
+<p>“光头”想先定位自己，看看自己在时空中的位置。</p>
+<h3 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h3><h4 id="过去，现在，将来"><a href="#过去，现在，将来" class="headerlink" title="过去，现在，将来"></a>过去，现在，将来</h4><blockquote>
+<blockquote>
+</blockquote>
+<p>首先，“光头”在地上画了一根线，在线上点出了一点，表示现在。然后，他企图对这根线画上两点，封住过去和将来。<br>“光头”心想：<br>过去的过去是不是还有过去，<br>将来的将来是不是还有将来。<br>现在是过去，<br>将来是现在，<br>噢，时间过去了。<br>于是他把刚才的“现在”做成了过去。<br>封没封？跟他无关。</p>
+</blockquote>
+<h4 id="单位"><a href="#单位" class="headerlink" title="单位"></a>单位</h4><blockquote>
+<blockquote>
+</blockquote>
+<p>咦，这个点该叫什么呢？<br> 秒吧<br>把秒摞起来呢？<br> 分吧<br>把分摞起来呢？<br>。。。<br> 小时，日，月，年，世纪。。。太多了，跟我这个光头没关系了。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Casual Literary Notes</category>
+      </categories>
+      <tags>
+        <tag>suibian~</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/01/18/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
@@ -17,14 +55,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hello</title>
-    <url>/2020/01/15/hello-hexo/</url>
-    <content><![CDATA[<p>你好</p>
-]]></content>
-      <tags>
-        <tag>审计</tag>
-      </tags>
   </entry>
 </search>
